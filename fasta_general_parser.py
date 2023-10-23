@@ -1,4 +1,4 @@
-#Example 4-30: Reading sequences in FASTA files
+#Reading sequences in FASTA files
 
 def get_items_from_file(filename, testfn=None):
     """Return all the items in the file name filename; if testfn
