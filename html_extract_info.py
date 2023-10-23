@@ -1,4 +1,4 @@
-#Example 4-29. Searching for data in an HTML file
+#Searching for data in an HTML file
 
 endresult = '- - - - - - - - end Results - - - - - -'
 patterns = ('</em>]',
